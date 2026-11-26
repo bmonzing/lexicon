@@ -4,7 +4,8 @@ version: 1.0
 date: 2026-11-26
 purpose: Shared vocabulary for separating deterministic, logic-based computation from probabilistic AI reasoning, and for keeping decision data trustworthy over time.
 audience: Designers, engineers, product consultants, and LLM agents working on AI-assisted products.
-usage_for_llms: Treat each term's definition as the canonical meaning in this project. When a term is ambiguous in the wider industry, the "Watch out" note says how it is used here.
+usage_for_llms: Use these as the preferred meanings when a project adopts this lexicon. When a term is ambiguous in the wider industry, the "Watch out" note says how it is used here.
+license: CC BY 4.0
 ---
 
 # Deterministic Decisions in AI Systems — Glossary
